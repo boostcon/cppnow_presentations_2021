@@ -1,4 +1,4 @@
-# cppnow_presentations_2021
+# cppnow presentations 2021
 
 - [CMake: One Tool To Build Them All](https://github.com/boostcon/cppnow_presentations_2021/blob/main/cppnow_slides/CMake_One_Tool_To_Build_Them_All_CppNow.pdf) by Bill Hoffman
 - [A Crash Course in Unicode for C++ Developers](https://github.com/boostcon/cppnow_presentations_2021/blob/main/cppnow_slides/crash_course_unicode_slides.pdf) by Steve Downey
