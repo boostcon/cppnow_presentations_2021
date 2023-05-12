@@ -24,6 +24,7 @@
 - [UT - C++20 Unit Testing Framework](https://github.com/boostcon/cppnow_presentations_2021/blob/main/cppnow_slides/ut_cpp20_unit_testing_framework_kris_jusiak_cppnow2021.pdf) by Kris Jusiak
 - [Variations on variants](https://github.com/boostcon/cppnow_presentations_2021/blob/main/cppnow_slides/Variations_on_Variant.pdf) by Roi Barkan
 - [Weak Interfaces → Weak Defences: The Bane of Implicit Conversion in our Function Calls](https://github.com/boostcon/cppnow_presentations_2021/blob/main/cppnow_slides/Richard_Szalay_Weak_Interfaces_Weak_Defences_SLIDES.pdf) by Richárd Szalay
+- [What Belongs in the C++ Standard Library?](https://github.com/boostcon/cppnow_presentations_2021/blob/main/cppnow_slides/what_belongs_in_the_cpp_standard_library__r3__2021_05_07_cppnow.pdf) by Bryce Adelstein Lelbach
 - [What is an ABI and Why is Breaking it a Problem?](https://github.com/boostcon/cppnow_presentations_2021/blob/main/cppnow_slides/what_is_an_ABI_and_why_is_breaking_it_a_problem.pdf) by Marshall Clow
 - [When Should You Give Two Things the Same Name?](https://github.com/boostcon/cppnow_presentations_2021/blob/main/cppnow_slides/2021_05_03__When_should_you_give_two_things_the_same_name_1.pdf) by Arthur O'Dwyer
 - [Windows, MacOS and the Web: Lessons from Cross-platform Development at think-cell](https://github.com/boostcon/cppnow_presentations_2021/blob/main/cppnow_slides/crossplatform_development.pdf) by Sebastian Theophil
